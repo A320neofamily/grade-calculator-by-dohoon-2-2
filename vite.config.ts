@@ -5,8 +5,6 @@ import path from 'node:path'
 
 import siteConfiguration from './.figma/make/site.json'
 
-import { defineConfig } from 'vite'
-
 
 
 // Vite config — https://vitejs.dev/config/
