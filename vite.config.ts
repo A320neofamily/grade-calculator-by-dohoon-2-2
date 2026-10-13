@@ -5,6 +5,9 @@ import path from 'node:path'
 
 import siteConfiguration from './.figma/make/site.json'
 
+import { defineConfig } from 'vite'
+
+
 
 // Vite config — https://vitejs.dev/config/
 export default defineConfig(({ mode }) => {
@@ -12,7 +15,7 @@ export default defineConfig(({ mode }) => {
   const emitSourcemaps = mode === 'development'
 
   return {
-    base: process.env.FIGMA_PUBLIC_URL ? `${process.env.FIGMA_PUBLIC_URL}/` : '/',
+    base: '/grade-calculator-by-dohoon_2-2/',
     build: {
       sourcemap: emitSourcemaps ? 'inline' : false,
       minify: !emitSourcemaps,
