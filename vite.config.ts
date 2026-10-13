@@ -13,7 +13,7 @@ export default defineConfig(({ mode }) => {
   const emitSourcemaps = mode === 'development'
 
   return {
-    base: '/grade-calculator-by-dohoon_2-2/',
+    base: '/grade-calculator-by-dohoon-2-2/',
     build: {
       sourcemap: emitSourcemaps ? 'inline' : false,
       minify: !emitSourcemaps,
