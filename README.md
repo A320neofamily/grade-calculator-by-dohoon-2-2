@@ -1,4 +1,4 @@
-# [2026 만덕중 2-2 성적계산기 바로가기](https://a320neofamily.github.io/grade-calculator-by-dohoon-2-2/)
+# [2026 만덕중 2-2 성적계산기 1.0 바로가기(다운)](https://a320neofamily.github.io/grade-calculator-by-dohoon-2-2/)
 2026 만덕중학교 2학년 2학기 성적계산기입니다.
 
 ## 평가계획과 반영비율을 한눈에
