@@ -19,7 +19,7 @@
 
 ## 우리 학교가 없다면
 
-[Instagram @grade.calculator]([https://school.busanedu.net/mandeok-m/na/ntt/selectNttInfo.do?mi=1011218&nttSn=53770910](https://www.instagram.com/grade.calculator_/)으로 해당 학교의 평가계획표를 보내주세요
+[Instagram @grade.calculator](https://www.instagram.com/grade.calculator_/)으로 해당 학교의 평가계획표를 보내주세요
 
 ## Special thanks for
 
